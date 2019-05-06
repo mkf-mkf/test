@@ -3,4 +3,4 @@ Hello Git
 
 It's new line
 
-add new line
+add new line bla-bla
